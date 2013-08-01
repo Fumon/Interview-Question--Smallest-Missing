@@ -4,10 +4,7 @@ _A good interview question answered with Go_
 
 In a recent interview, where I shared my screen with the interviewer over Skype, I was asked to develop an algorithm and optimize it while talking through my methodology and stating the efficiency when asked. I thought this was a really great way to do an interview, it covers organization, communication, development skill as well as knowledge of tradeoffs.
 
-The question was as followed: 
-    
-    In any environment you're comfortable with, develop an algorithm to detect and print the smallest positive integer which is missing from a sequence of integers passed as an array. 
-    The array will not always be sorted and there can be repeats.
+The question was as followed: "In any environment you're comfortable with, develop an algorithm to detect and print the smallest positive integer which is missing from a sequence of integers passed as an array. The array will not always be sorted and there can be repeats."
 
 ### The language
 As I had choice of enviroment, I chose [Go](http://golang.org). Its well organized standard library covers a lot of possible requirements and the docs are easy to read with included examples. The syntax is also good for quick implementation or at least better than C/C++ which I normally work in.
